@@ -1,0 +1,204 @@
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fovr\Workspace\API\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csprojAssemblyReference.cache
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+C:\Users\fovr\My Private Documents\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.exe
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.deps.json
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.json
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.runtimeconfig.dev.json
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\CrossCutting.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\CrossCutting.pdb
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.AssemblyReference.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfoInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.AssemblyInfo.cs
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.CoreCompileInputs.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.Manifest.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\staticwebassets\Application.StaticWebAssets.xml
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\scopedcss\bundle\Application.styles.css
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.RazorTargetAssemblyInfo.cache
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.csproj.CopyComplete
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.dll
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.pdb
+C:\Users\ferda\Desktop\Studyspace\Estágio\ProjetoApi\Loja\Loja.Application\obj\Debug\netcoreapp3.1\Application.genruntimeconfig.cache
